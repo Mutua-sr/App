@@ -1,0 +1,33 @@
+{"level":"info","message":"Test app running at http://localhost:8000","timestamp":"2025-03-23T01:02:44.583Z"}
+{"level":"info","message":"Available test endpoints:","timestamp":"2025-03-23T01:02:44.585Z"}
+{"level":"info","message":"- GET /test/classroom","timestamp":"2025-03-23T01:02:44.585Z"}
+{"level":"info","message":"- GET /test/community","timestamp":"2025-03-23T01:02:44.586Z"}
+{"level":"info","message":"- GET /test/post","timestamp":"2025-03-23T01:02:44.586Z"}
+{"level":"error","message":"Error initializing database: error happened in your connection. Reason: getaddrinfo ENOTFOUND couchdb.blackbox.ai","stack":"Error: error happened in your connection. Reason: getaddrinfo ENOTFOUND couchdb.blackbox.ai\n    at responseHandler (/project/sandbox/user-workspace/blackboxai-1742671172553/eduapp/backend/node_modules/nano/lib/nano.js:157:16)\n    at /project/sandbox/user-workspace/blackboxai-1742671172553/eduapp/backend/node_modules/nano/lib/nano.js:456:13\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-03-23T01:02:44.714Z"}
+{"level":"info","message":"Test app running at http://localhost:8000","timestamp":"2025-03-23T01:07:13.948Z"}
+{"level":"info","message":"Visit http://localhost:8000 to test the services","timestamp":"2025-03-23T01:07:13.951Z"}
+{"level":"error","message":"Error initializing database: error happened in your connection. Reason: getaddrinfo ENOTFOUND couchdb.blackbox.ai","stack":"Error: error happened in your connection. Reason: getaddrinfo ENOTFOUND couchdb.blackbox.ai\n    at responseHandler (/project/sandbox/user-workspace/blackboxai-1742693114516/blackboxai-1742671172553/eduapp/backend/node_modules/nano/lib/nano.js:157:16)\n    at /project/sandbox/user-workspace/blackboxai-1742693114516/blackboxai-1742671172553/eduapp/backend/node_modules/nano/lib/nano.js:456:13\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-03-23T16:50:49.911Z"}
+{"level":"info","message":"Mock in-memory database initialized","timestamp":"2025-03-23T16:52:36.572Z"}
+{"level":"info","message":"Database initialized successfully","timestamp":"2025-03-23T16:52:36.574Z"}
+{"level":"info","message":"🚀 Server ready at http://localhost:3000","timestamp":"2025-03-23T16:52:36.608Z"}
+{"level":"info","message":"🚀 GraphQL ready at http://localhost:3000/graphql","timestamp":"2025-03-23T16:52:36.609Z"}
+{"level":"info","message":"Mock in-memory database initialized","timestamp":"2025-03-23T16:53:56.972Z"}
+{"level":"info","message":"Database initialized successfully","timestamp":"2025-03-23T16:53:56.974Z"}
+{"level":"info","message":"🚀 Server ready at http://localhost:3000","timestamp":"2025-03-23T16:53:57.003Z"}
+{"level":"info","message":"🚀 GraphQL ready at http://localhost:3000/graphql","timestamp":"2025-03-23T16:53:57.004Z"}
+{"level":"info","message":"Mock in-memory database initialized","timestamp":"2025-03-24T02:44:35.930Z"}
+{"level":"info","message":"Database initialized successfully","timestamp":"2025-03-24T02:44:35.933Z"}
+{"level":"info","message":"🚀 Server ready at http://localhost:3000","timestamp":"2025-03-24T02:44:35.962Z"}
+{"level":"info","message":"🚀 GraphQL ready at http://localhost:3000/graphql","timestamp":"2025-03-24T02:44:35.963Z"}
+{"level":"info","message":"Mock in-memory database initialized","timestamp":"2025-03-24T03:04:03.759Z"}
+{"level":"info","message":"Database initialized successfully","timestamp":"2025-03-24T03:04:03.761Z"}
+{"level":"info","message":"🚀 Server ready at http://localhost:8000","timestamp":"2025-03-24T03:04:03.789Z"}
+{"level":"info","message":"🚀 GraphQL ready at http://localhost:8000/graphql","timestamp":"2025-03-24T03:04:03.789Z"}
+{"level":"info","message":"Mock in-memory database initialized","timestamp":"2025-03-24T03:38:42.667Z"}
+{"level":"info","message":"Database initialized successfully","timestamp":"2025-03-24T03:38:42.669Z"}
+{"level":"info","message":"🚀 Server ready at http://localhost:8000","timestamp":"2025-03-24T03:38:42.700Z"}
+{"level":"info","message":"🚀 GraphQL ready at http://localhost:8000/graphql","timestamp":"2025-03-24T03:38:42.701Z"}
+{"level":"info","message":"Mock in-memory database initialized","timestamp":"2025-03-24T03:42:33.961Z"}
+{"level":"info","message":"Database initialized successfully","timestamp":"2025-03-24T03:42:33.963Z"}
+{"level":"info","message":"🚀 Server ready at http://localhost:3000","timestamp":"2025-03-24T03:42:33.994Z"}
+{"level":"info","message":"🚀 GraphQL ready at http://localhost:3000/graphql","timestamp":"2025-03-24T03:42:33.995Z"}
